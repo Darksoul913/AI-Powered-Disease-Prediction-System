@@ -36,7 +36,7 @@ By integrating feature selection, model training, and real-time predictions, thi
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/AI-Disease-Prediction.git
+git clone https://github.com/darksoul913/AI-Disease-Prediction.git
 cd AI-Disease-Prediction
 
 2️⃣ Install Dependencies
